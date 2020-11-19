@@ -1,0 +1,131 @@
+body{
+    background-color: #2BAE66FF;
+    overflow-x: hidden;
+    background-size: cover;
+}
+
+#logo{
+    height: 2em;
+    width: 5em;
+}
+
+.myNav{
+    float: left;
+    color: aqua;
+    font-weight:lighter;
+}
+
+.activ{
+    font-weight: bolder;
+}
+
+
+.siz{
+    /* height: 100%; */
+    width: 100%;
+}
+
+.about{
+    border: 2px solid rgb(189, 252, 224);
+    border-radius: 3%;
+    margin-left: 2%;
+}
+
+.about #about-h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    /* color:#ffdf00 ; */
+}
+
+.ttd{
+    border: 2px solid #ADEFD1FF;
+    margin-top: 2%;
+    width: 87em;
+    margin-left: 3%;
+    border-radius: 6px;
+}
+
+.ttd h2{
+    text-align: center;
+    font-family: serif;
+    /* color: #ffdf00; */
+}
+
+.ttd .ttd-image{
+    float: left;
+    margin-left: 4%;
+}
+
+.ttd #ttd-image{
+    height: 15em;
+    width: 25em;
+    padding: 2%;
+}
+
+.sign-box{
+    border: 2px solid black;
+    width: 70%;
+    padding: 2%;
+    border-radius: 7px;
+    margin-top: 2cm;
+    margin-left: 6cm;
+}
+
+.dd-button{
+    color: cyan;
+    font-weight: lighter;
+}
+
+footer{
+    background-color: #ADEFD1FF;
+    height: 2em;
+}
+
+footer h5{
+    text-align: center;
+}
+
+.topd{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2%;
+    margin: 1%;
+}
+
+.topd-about h5{
+    /* border: 2px solid black; */
+    text-align: center;
+    font-family: serif;
+}
+
+.districts{
+    border: 2px solid black;
+    margin: 1%;
+    padding: 1%;
+    height: 92em;
+}
+
+.districts h5{
+    text-align: center;
+    font-style: oblique;
+}
+
+.districts .dist-row{
+    float: left;
+    padding: 1%;
+}
+
+#d-link{
+    margin-left: 2em ;
+}
+
+#wel-h3{
+    text-align: center;
+    padding: 1%;
+    font-family: cursive;
+}
+
+.offers{
+    margin: 2%;
+}

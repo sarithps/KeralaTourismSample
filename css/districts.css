@@ -1,0 +1,96 @@
+body{
+    background-color: #00A4CCFF;
+    overflow-x: hidden;
+}
+
+#logo{
+    height: 2em;
+    width: 5em;
+}
+
+.myNav{
+    float: left;
+    color: aqua;
+    font-weight:lighter;
+}
+
+.activ{
+    font-weight: bolder;
+}
+
+.dd-button{
+    color: cyan;
+    font-weight: lighter;
+}
+
+h1{
+    font-family: serif;
+    text-align: center;
+    background-color:#00203FFF;
+    color: cyan;
+}
+
+.about{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 4%;
+    margin-top: 5%;
+}
+
+.about h3{
+    text-align: center;
+    margin-top: 1%;
+}
+
+.about-img{
+    margin-top: 5%;
+    margin-left: 6%;
+}
+
+.attractions{
+    border: 2px solid black;
+    margin-top: 2%;
+    height: 24em;
+    /* width: 87em; */
+    /* margin-left: 3%; */
+    border-radius: 6px;
+    background-color:#00203FFF;
+}
+
+.attractions .image{
+    float: left;
+    margin-left: 4%;
+}
+
+.attractions h2{
+    text-align: center;
+    margin-top: 1%;
+    font-family: serif;
+    color: cyan;
+}
+
+.attractions #img{
+    height: 17em;
+    width: 27em;
+    padding: 2%;
+}
+
+.attractions h6{
+    color: cyan;
+    float: left;
+    margin-left: 8%;
+}
+
+#att-cap{
+    margin-left: 20%;
+}
+
+footer{
+    background-color: #ADEFD1FF;
+    height: 2em;
+}
+
+footer h5{
+    text-align: center;
+}
+
